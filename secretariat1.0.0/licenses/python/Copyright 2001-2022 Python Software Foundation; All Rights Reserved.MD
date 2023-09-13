@@ -1,1 +1,0 @@
-Copyright © 2001-2022 Python Software Foundation; All Rights Reserved
